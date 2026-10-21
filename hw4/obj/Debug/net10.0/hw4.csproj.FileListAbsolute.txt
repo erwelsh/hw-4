@@ -1,0 +1,14 @@
+/Users/emmawelsh/RiderProjects/hw4/hw4/bin/Debug/net10.0/hw4
+/Users/emmawelsh/RiderProjects/hw4/hw4/bin/Debug/net10.0/hw4.deps.json
+/Users/emmawelsh/RiderProjects/hw4/hw4/bin/Debug/net10.0/hw4.runtimeconfig.json
+/Users/emmawelsh/RiderProjects/hw4/hw4/bin/Debug/net10.0/hw4.dll
+/Users/emmawelsh/RiderProjects/hw4/hw4/bin/Debug/net10.0/hw4.pdb
+/Users/emmawelsh/RiderProjects/hw4/hw4/obj/Debug/net10.0/hw4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmawelsh/RiderProjects/hw4/hw4/obj/Debug/net10.0/hw4.AssemblyInfoInputs.cache
+/Users/emmawelsh/RiderProjects/hw4/hw4/obj/Debug/net10.0/hw4.AssemblyInfo.cs
+/Users/emmawelsh/RiderProjects/hw4/hw4/obj/Debug/net10.0/hw4.csproj.CoreCompileInputs.cache
+/Users/emmawelsh/RiderProjects/hw4/hw4/obj/Debug/net10.0/hw4.dll
+/Users/emmawelsh/RiderProjects/hw4/hw4/obj/Debug/net10.0/refint/hw4.dll
+/Users/emmawelsh/RiderProjects/hw4/hw4/obj/Debug/net10.0/hw4.pdb
+/Users/emmawelsh/RiderProjects/hw4/hw4/obj/Debug/net10.0/hw4.genruntimeconfig.cache
+/Users/emmawelsh/RiderProjects/hw4/hw4/obj/Debug/net10.0/ref/hw4.dll
